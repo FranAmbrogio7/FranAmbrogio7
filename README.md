@@ -5,15 +5,16 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
-  - Java
-  - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+I'm a Software Development Technologist student at the Instituto Tecnologico de Río Cuarto. I'm proficient in Python, Java, Ruby, Javascript, HTML, and CSS. I love learning and creating something new, productive, innovative, and creative.
+
+I'm interested in backend development, data management, and databases.
+🌱 I'm currently learning...
+Angular
+React.js
+👯 I'm excited to collaborate on open source projects.
+✔ Ask me anything; I'll be happy to help, but only if the ball's in my court! 😉
+Besides technology, 📖 I love reading books, working out, 🎵 listening to music, and 🌴 exploring the outdoors.
+📫 Contact me at: franciscoambrogio@gmail.com
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
