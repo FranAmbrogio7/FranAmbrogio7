@@ -7,7 +7,7 @@
 
 I'm a Software Development Technologist student at the Instituto Tecnologico de Río Cuarto. I'm proficient in Python, Java, Ruby, Javascript, HTML, and CSS. I love learning and creating something new, productive, innovative, and creative.
 
-* ** I'm interested in backend development, data management, and databases.
+* ** I'm interested in backend development, data management, and databases. **
 - 🌱 I'm currently learning...
 - Angular
 - React.js
