@@ -7,14 +7,14 @@
 
 I'm a Software Development Technologist student at the Instituto Tecnologico de Río Cuarto. I'm proficient in Python, Java, Ruby, Javascript, HTML, and CSS. I love learning and creating something new, productive, innovative, and creative.
 
-I'm interested in backend development, data management, and databases.
-🌱 I'm currently learning...
-Angular
-React.js
-👯 I'm excited to collaborate on open source projects.
-✔ Ask me anything; I'll be happy to help, but only if the ball's in my court! 😉
-Besides technology, 📖 I love reading books, working out, 🎵 listening to music, and 🌴 exploring the outdoors.
-📫 Contact me at: franciscoambrogio@gmail.com
+* ** I'm interested in backend development, data management, and databases.
+- 🌱 I'm currently learning...
+- Angular
+- React.js
+- 👯 I'm excited to collaborate on open source projects.
+- ✔ Ask me anything; I'll be happy to help, but only if the ball's in my court! 😉
+- Besides technology, 📖 I love reading books, working out, 🎵 listening to music, and 🌴 exploring the outdoors.
+- 📫 Contact me at: franciscoambrogio@gmail.com
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
