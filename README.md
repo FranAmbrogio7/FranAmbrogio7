@@ -16,8 +16,6 @@ I'm a Software Development Technologist student at the Instituto Tecnologico de 
 - Besides technology, 📖 I love reading books, working out, 🎵 listening to music, and 🌴 exploring the outdoors.
 - 📫 Contact me at: franciscoambrogio@gmail.com
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
 ## My Skills Include
 
 <h4> Languages </h4>
