@@ -29,6 +29,7 @@ I'm a Software Development Technologist student at the Instituto Tecnologico de 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss"
 </span>
 
 <h4> Frameworks </h4>
